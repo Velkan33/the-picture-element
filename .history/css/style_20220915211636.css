@@ -34,23 +34,4 @@ img {
   font-size: 3rem;
   color: #ee6352;
   line-height: 0.8;
-}
-
-.form {
-  margin: 0 auto;
-  text-align: center;
-  width: 80%;
-}
-.form legend {
-  font-size: 1.4rem;
-  font-weight: bold;
-  font-style: italic;
-}
-.form * {
-  margin: 0.4rem auto;
-  display: block;
-  width: 100%;
-}
-.form [type=Submit] {
-  width: max(10rem, 30%);
-}/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style_20220915211636.css.map */
